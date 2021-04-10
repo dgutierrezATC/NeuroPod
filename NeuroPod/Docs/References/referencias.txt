@@ -1,0 +1,14 @@
+http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/
+
+https://electronicvisions.github.io/hbp-sp9-guidebook/mc/using_spiNNaker.html
+
+http://www.instructables.com/topics/How-to-input-NUMBERS-through-Arduino-serialmonito/
+
+https://www.researchgate.net/publication/324906888_Behavioral_Learning_in_a_Cognitive_Neuromorphic_Robot_An_Integrative_Approach
+
+https://tex.stackexchange.com/questions/273072/adding-lines-to-bar-charts
+https://stackoverflow.com/questions/2979097/best-way-to-draw-a-bar-chart-in-latex
+https://tex.stackexchange.com/questions/156964/guide-to-draw-charts-basic-pie-bar-from-data
+http://pgfplots.sourceforge.net/
+http://www.texample.net/tikz/examples/bar-chart/
+
