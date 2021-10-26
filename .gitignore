@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore files for HexapodController folder
+HexapodController/*
+!HexapodController/*.py
